@@ -47,7 +47,9 @@ function App() {
       <Route exact path='/musicproduction' component={Intro} />
       <Route exact path='/musicproduction' component={About4} />
       <Route exact path='/musicproduction' component={Contact} />
+      <Switch>
       <Route exact path='/mohammadareed' component={Mohammadareed} />
+      </Switch>
       
       </Router>
     </div>
