@@ -7,6 +7,8 @@ import Contact from './components/contact/Contact';
 import Intro from './components/intro/Intro'
 import ProductList from './components/ProductList/ProductList';
 import ProductList2 from './components/ProductList/ProductList2';
+import ProductList3 from './components/ProductList/ProductList3';
+import Mohammadareed from './components/artistsandowners/Mohammadareed'
 import Toggle from './components/toggle/Toggle';
 import { ThemContext } from './context';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
@@ -25,6 +27,7 @@ function App() {
       <Route exact path='/' component={About4} />
       <Route exact path='/' component={ProductList} />
       <Route exact path='/' component={ProductList2} />
+      <Route exact path='/' component={ProductList3} />
       <Route exact path='/' component={Contact} />
       <Route exact path='/webdevelopment' component={Toggle} />
       <Route exact path='/webdevelopment' component={Intro} />
@@ -42,6 +45,7 @@ function App() {
       <Route exact path='/musicproduction' component={Intro} />
       <Route exact path='/musicproduction' component={About4} />
       <Route exact path='/musicproduction' component={Contact} />
+      <Route exact path='/mohammadareed' component={Mohammadareed} />
       </Router>
     </div>
   );

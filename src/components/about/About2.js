@@ -8,7 +8,7 @@ const About = () => {
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
-                <img src="https://www.aliceinfoweb.com/admin/images/blog/social_media_expert.png" alt="" className="a-img"/>
+                <img src="https://png.pngitem.com/pimgs/s/3-36866_social-media-hd-png-download.png" alt="" className="a-img"/>
             </div>
         </div> 
         <div className="a-right">

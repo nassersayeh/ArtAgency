@@ -8,7 +8,7 @@ const About = () => {
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
-                <img src="https://www.pngitem.com/pimgs/m/9-94498_mobile-apps-development-png-mobile-application-development-png.png" alt="" className="a-img"/>
+                <img src="https://png.pngitem.com/pimgs/s/15-155786_rnf-provides-hybrid-app-development-services-building-hybrid.png" alt="" className="a-img"/>
             </div>
         </div> 
         <div className="a-right">
