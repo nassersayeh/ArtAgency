@@ -76,6 +76,7 @@ const intro = () => {
             </div>
             <title>محمد عريض</title>
             <meta name='description' content='الفنان محمد عريض'/>
+            <meta name="google-site-verification" content="8OTx-pXAp_WwwdRvI6bRyq75sv2uXwcO_vCHNCEhZ0o" />
         </div>
                 </div>
                 
