@@ -19,7 +19,9 @@ function App() {
   return (
     <div style={{backgroundColor:darkMode ? "#222" : "white",color:darkMode && "white"}}>
       <Router>
+      <Switch>
       <Route exact path='/' component={Toggle} />
+      </Switch>
       <Route exact path='/' component={Intro} />
       <Route exact path='/' component={About} />
       <Route exact path='/' component={About2} />
@@ -46,6 +48,7 @@ function App() {
       <Route exact path='/musicproduction' component={About4} />
       <Route exact path='/musicproduction' component={Contact} />
       <Route exact path='/mohammadareed' component={Mohammadareed} />
+      
       </Router>
     </div>
   );
