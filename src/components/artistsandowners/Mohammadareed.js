@@ -74,6 +74,8 @@ const intro = () => {
                 <Product img={img5} link={link5}/>
                 <Product img={img6} link={link6}/>
             </div>
+            <title>محمد عريض</title>
+            <meta name='description' content='الفنان محمد عريض'/>
         </div>
                 </div>
                 
