@@ -18,9 +18,9 @@ const ProductList = () => {
                 </p>
             </div>
             <div className="p1-list">
-                <Product img={img1} link={"mohammadareed"}/>
+                <Product img={img1} link={"محمدالعريض"}/>
                 <div className='textnews'>
-                <Link to="mohammadareed" style={{ textDecoration: 'none', color:"black" }}>Artist Mohammad Areed - الفنان محمد عريض</Link>
+                <Link to="محمدعريض" style={{ textDecoration: 'none', color:"black" }}>Artist Mohammad Areed - الفنان محمد عريض</Link>
                 </div>
             </div>
 
